@@ -1,0 +1,13 @@
+{
+  "state": "awaiting_user",
+  "url": "https://accounts.doubao.com/authorize?theme=dark&locale=zh-CN&template_id=7704906913376455930&scope=user_info&callback_info=user_type&redirect_uri=https%3A%2F%2Fwww.trae.cn%2Fsso-callback&client_key=tywuefgcuzyrgjf0&app_id=711126&state=eyJzZWFyY2giOiJsb2dpbl9jaGFubmVsPWlkZV9wbGF0Zm9ybSZsb2dpbl9wbGF0Zm9ybT10cmFlJnV0bV9pbmZvPSU3QiUyMlV0bVNvdXJjZSUyMiUzQSUyMiUyMiUyQyUyMlV0bU1lZGl1bSUyMiUzQSUyMiUyMiUyQyUyMlV0bUNhbXBhaWduJTIyJTNBJTIyJTIyJTJDJTIyVXRtVGVybSUyMiUzQSUyMiUyMiUyQyUyMlV0bUNvbnRlbnQlMjIlM0ElMjIlMjIlMkMlMjJCRFZJRCUyMiUzQSUyMiUyMiUyQyUyMkFjdGl2aXR5TmFtZSUyMiUzQSUyMiUyMiUyQyUyMkxhbmRpbmdQYWdlVXJsJTIyJTNBJTIyJTIyJTJDJTIyZXh0WW91ZGFvJTIyJTNBJTIyJTIyJTdEIiwibW9kZSI6ImF1dGhvcml6ZSIsIm5vbmNlIjoiNmE2NWI3MDYtOTRkYy00NWYzLWFjOWItYzM1ZGEyZjMzZDE5IiwiZXhwaXJlcyI6MTc5NTExNjM3OTM0MX0&track_params=%7B%22req_source%22%3A0%2C%22login_channel%22%3A%22ide_platform%22%2C%22login_platform%22%3A%22trae%22%7D&extra_login_methods=%5B%7B%22name%22%3A%22%E4%BD%BF%E7%94%A8+TRAE+%E8%B4%A6%E5%8F%B7%E7%99%BB%E5%BD%95%22%2C%22url%22%3A%22https%3A%2F%2Fconsole.enterprise.trae.cn%2Flogin%22%7D%5D",
+  "inputs": [
+    {
+      "type": "text",
+      "ph": "请输入手机号",
+      "w": 0
+    }
+  ],
+  "body": "",
+  "ts": "2026-11-19T19:11:36.279Z"
+}
